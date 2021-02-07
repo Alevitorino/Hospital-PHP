@@ -1,0 +1,7 @@
+Só importar o banco de dados no PhpMyAdmin 
+
+- Esse projeto era usado em outra maquina
+- Então exportei o banco de dados
+- Instale o XAMP e importe no PhpMyAdmin
+
+Só isso, obrigado por ler e pela atenção.
